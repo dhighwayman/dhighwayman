@@ -2,7 +2,7 @@
 
 
 <div>
-  <img src="https://github.com/dhighwayman/dhighwayman/blob/master/img/cover.png">
+  <img src="https://github.com/dhighwayman/dhighwayman/blob/main/img/cover.png">
 </div>
                                                   
 #### Hi there, I'm a engineering manager Engineer!
