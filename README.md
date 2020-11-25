@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+<div>
+  <img src="https://github.com/dhighwayman/dhighwayman/blob/master/img/cover.png">
+</div>
+                                                  
+#### Hi there, I'm a engineering manager Engineer!
+
+Hi, I am a engineering manager based at Vitoria-gasteiz(Spain).
+
+- 🔭 I’m currently working on Cloudbeds
+- 🌱 I’m currently learning about leadership
+- 📫 How to reach me: @highwayman
+
 <!--
 **dhighwayman/dhighwayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
